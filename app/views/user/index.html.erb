@@ -1,0 +1,131 @@
+<div class="container" id="layout-user-index">
+	<div class="row">
+		<h1><b>고객 관리</b></h1>
+		<hr>
+		<div class="col-xs-3">
+			<a class="btn btn-info btn-lg btn-block" href="/user/show_all/0">전체 고객 목록</a>
+		</div>
+		<div class="col-xs-3">
+			<a class="btn btn-info btn-lg btn-block" href="/user/new">신규 고객 등록</a>
+		</div>
+		<div class="col-xs-6">
+			<%= form_for :user, :url => "/user/search" do |f| %>
+        <div class="form-group col-xs-10">
+        	<div class="input-group">
+        		<label class="sr-only" for="index-input-name">고객명</label>
+        		<div class="input-group-addon">이름</div>
+          	<%= f.text_field :name, id: 'index-input-name', class: 'form-control', placeholder: '고객명을 입력하세요.' %>
+          </div>
+          <div class="input-group">
+          	<label class="sr-only" for="index-input-token">휴대전화 뒷자리</label>
+				    <div class="input-group-addon">번호</div>
+          	<%= f.text_field :token, id: 'index-input-token', class: 'form-control', placeholder: '휴대전화 뒷자리' %>
+        	</div>
+        </div>
+        <div class="col-xs-2">
+        	<%= f.submit '검색', class: 'btn btn-primary' %>
+        </div>
+    	<% end %>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-xs-6">
+			<!-- section : 판매 -->
+			<h1><b>판매량</b></h1>
+			<hr>
+			<table class="table table-striped">
+				<thead>
+					<tr>
+						<th>날짜</th>
+						<th>액상</th>
+						<th>니코틴</th>
+						<th>기계</th>
+					</tr>
+				</thead>
+				<tbody>
+					<% @current_sales.each do |sale| %>
+						<tr class="<%= sale[0] === Date.today.to_s ? "success" : "" %>" >
+							<td><%= sale[1]["date"] %></td>
+							<td><%= sale[1]["liquer"].nil? ? 0 : sale[1]["liquer"] %></td>
+							<td><%= sale[1]["nicotine"].nil? ? 0 : sale[1]["nicotine"] %></td>
+							<td><%= sale[1]["machine"].nil? ? 0 : sale[1]["machine"] %></td>
+						</tr>
+					<% end %>
+				</tbody>
+			</table>
+		</div>
+		<div class="col-xs-6">
+			<!-- section : 증정 -->
+			<h1><b>증정량</b></h1>
+			<hr>
+			<table class="table table-striped">
+				<thead>
+					<tr>
+						<th>날짜</th>
+						<th>액상</th>
+						<th>니코틴</th>
+						<th>기계</th>
+					</tr>
+				</thead>
+				<tbody>
+					<% @current_gifts.each do |gift| %>
+						<tr class="<%= gift[0] === Date.today.to_s ? "success" : "" %>">
+							<td><%= gift[1]["date"] %></td>
+							<td><%= gift[1]["liquer"].nil? ? 0 : gift[1]["liquer"] %></td>
+							<td><%= gift[1]["nicotine"].nil? ? 0 : gift[1]["nicotine"] %></td>
+							<td><%= gift[1]["machine"].nil? ? 0 : gift[1]["machine"] %></td>
+						</tr>
+					<% end %>
+				</tbody>
+			</table>
+		</div>
+	</div>
+	
+	<div class="row">
+		<div class="col-xs-6">
+			<h1><b>오늘 구매</b></h1>
+			<hr>
+			<table class="table table-striped table-hover">
+				<thead>
+					<tr>
+						<th>이름</th>
+						<th>전화번호</th>
+						<th>구매항목</th>
+					</tr>
+				</thead>
+				<tbody>
+					<% @today_sales.each do |sale| %>
+						<tr style="cursor:pointer" onclick="window.location.href='/user/<%= sale.user.id %>'">
+							<td><%= sale.user.name %></td>
+							<td><%= sale.user.phone_number %></td>
+							<td><%= @category_hash[sale.category] %></td>
+						</tr>
+					<% end %>
+				</tbody>
+			</table>
+		</div>
+		<div class="col-xs-6">
+			<h1><b>오늘 구매</b></h1>
+			<hr>
+			<table class="table table-striped table-hover">
+				<thead>
+					<tr>
+						<th>이름</th>
+						<th>전화번호</th>
+						<th>구매항목</th>
+					</tr>
+				</thead>
+				<tbody>
+					<% @today_gifts.each do |gift| %>
+						<tr style="cursor:pointer" onclick="window.location.href='/user/<%= gift.user.id %>'">
+							<td><%= gift.user.name %></td>
+							<td><%= gift.user.phone_number %></td>
+							<td><%= @category_hash[gift.category] %></td>
+						</tr>
+					<% end %>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>

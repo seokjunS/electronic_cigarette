@@ -1,0 +1,29 @@
+<div class="container" id="layout-user-settings">
+	<div class="col-xs-6 col-xs-offset-2">
+		<%= form_for :settings, url: '/user/update_settings', method: :patch, :html => {:class => "form-horizontal"} do |f| %>
+			<div class="form-group">
+				<%= f.label :liquer_threshold, '액상 증정 기준', class: 'col-xs-6 control-label' %>
+				<div class="col-xs-6">
+					<%= f.text_field :liquer_threshold, class: 'form-control', placeholder: '액상 증정 기준' %>
+				</div>
+			</div>
+			<div class="form-group">
+				<%= f.label :nicotine_threshold, '니코틴 증정 기준', class: 'col-xs-6 control-label' %>
+				<div class="col-xs-6">
+					<%= f.text_field :nicotine_threshold, class: 'form-control', placeholder: '니코틴 증정 기준' %>
+				</div>
+			</div>
+			<div class="form-group">
+				<%= f.label :machine_threshold, '기계 증정 기준', class: 'col-xs-6 control-label' %>
+				<div class="col-xs-6">
+					<%= f.text_field :machine_threshold, class: 'form-control', placeholder: '기계 증정 기준' %>
+				</div>
+			</div>
+			<div class="form-group pull-right">
+		    <div class="col-xs-offset-3 col-xs-9">
+		      <%= f.submit '저장', class: 'btn btn-primary' %>
+		    </div>
+		  </div>
+		<% end %>
+	</div>
+</div>

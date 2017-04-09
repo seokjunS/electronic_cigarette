@@ -1,0 +1,29 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Manager</a>
+    </div>
+    <div id="navbar" class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        <li id="navbar-index"><a href="/">홈으로</a></li>
+        <li id="navbar-new"><a href="/user/new">고객 등록</a></li>
+        <li id="navbar-show"><a href="/user/show_all/0">고객 리스트</a></li>
+        <li id="navbar-settings"><a href="/user/settings">설정</a></li>
+      </ul>
+
+      <%= form_for :user, :url => "/user/search", :html => {:class => "navbar-form navbar-right"} do |f| %>
+        <div class="form-group">
+          <%= f.text_field :name, class: 'form-control', placeholder: '고객명' %>
+          <%= f.hidden_field :token, class: 'form-control', placeholder: '휴대전화 뒷자리' %>
+        </div>
+        <%= f.submit '검색', class: 'btn btn-default' %>
+      <% end %>
+    </div><!--/.nav-collapse -->
+  </div>
+</nav>

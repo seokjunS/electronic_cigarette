@@ -1,0 +1,14 @@
+<div class="container">
+	<div class="col-md-6 col-md-offset-3">
+		<h1><b>고객 선택</b></h1>
+		<hr>
+		<div class="list-group">
+			<% @users.each do |user| %>
+				<a class="list-group-item" href="/user/<%= user.id %>">
+					이름: <strong><%= user.name %></strong> &nbsp;&nbsp;
+					전화번호: <strong><%= user.phone_number %></strong> &nbsp;&nbsp;
+				</a>
+			<% end %>
+		</div>
+	</div>
+</div>

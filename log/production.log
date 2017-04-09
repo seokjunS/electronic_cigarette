@@ -1,0 +1,1133 @@
+I, [2014-12-20T20:00:55.826661 #862]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:00:55 +0900
+I, [2014-12-20T20:00:55.832206 #862]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:00:55.840378 #862]  INFO -- : Completed 500 Internal Server Error in 8ms
+F, [2014-12-20T20:00:55.841426 #862] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:00:58.366529 #862]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:00:58 +0900
+I, [2014-12-20T20:00:58.367483 #862]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:00:58.368706 #862]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:00:58.369963 #862] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:00:58.822570 #862]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:00:58 +0900
+I, [2014-12-20T20:00:58.823273 #862]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:00:58.824230 #862]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:00:58.825429 #862] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:01:14.998612 #862]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:01:14 +0900
+I, [2014-12-20T20:01:14.999378 #862]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:01:15.000362 #862]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:01:15.001512 #862] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:02:44.139990 #913]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:02:44 +0900
+I, [2014-12-20T20:02:44.145712 #913]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:02:44.157397 #913]  INFO -- : Completed 500 Internal Server Error in 12ms
+F, [2014-12-20T20:02:44.158388 #913] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:23.275376 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:23 +0900
+I, [2014-12-20T20:03:23.281799 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:23.293212 #914]  INFO -- : Completed 500 Internal Server Error in 11ms
+F, [2014-12-20T20:03:23.294687 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:24.240950 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:24 +0900
+I, [2014-12-20T20:03:24.242050 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:24.243433 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:24.244482 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:26.000037 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:26 +0900
+I, [2014-12-20T20:03:26.000833 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:26.001801 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:26.002892 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:26.648740 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:26 +0900
+I, [2014-12-20T20:03:26.649356 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:26.650186 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:26.651111 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:27.271299 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:27 +0900
+I, [2014-12-20T20:03:27.272063 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:27.272996 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:27.274412 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:27.763822 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:27 +0900
+I, [2014-12-20T20:03:27.764673 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:27.765703 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:27.766892 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:27.866599 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:27 +0900
+I, [2014-12-20T20:03:27.867254 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:27.868237 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:27.869886 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:27.947286 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:27 +0900
+I, [2014-12-20T20:03:27.947898 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:27.948747 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:27.949657 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:28.062684 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:28 +0900
+I, [2014-12-20T20:03:28.063407 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:28.064345 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:28.065321 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:28.144503 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:28 +0900
+I, [2014-12-20T20:03:28.146214 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:28.147651 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:28.148666 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:28.218104 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:28 +0900
+I, [2014-12-20T20:03:28.218739 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:28.219641 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:28.220586 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:28.287330 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:28 +0900
+I, [2014-12-20T20:03:28.288254 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:28.289361 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:28.291554 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:28.363575 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:28 +0900
+I, [2014-12-20T20:03:28.364403 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:28.365702 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:28.367533 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:28.457099 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:28 +0900
+I, [2014-12-20T20:03:28.458147 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:28.459561 #914]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:03:28.460643 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:03:28.557375 #914]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:03:28 +0900
+I, [2014-12-20T20:03:28.558252 #914]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:03:28.597506 #914]  INFO -- : Completed 500 Internal Server Error in 39ms
+F, [2014-12-20T20:03:28.598604 #914] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:07:28.577740 #927]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:07:28 +0900
+I, [2014-12-20T20:07:28.584009 #927]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:07:28.592482 #927]  INFO -- : Completed 500 Internal Server Error in 8ms
+F, [2014-12-20T20:07:28.593438 #927] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:07:34.999820 #927]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:07:34 +0900
+I, [2014-12-20T20:07:35.000811 #927]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:07:35.002086 #927]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:07:35.003217 #927] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:07:35.599233 #927]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:07:35 +0900
+I, [2014-12-20T20:07:35.599861 #927]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:07:35.600737 #927]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:07:35.602189 #927] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:07:36.935102 #927]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:07:36 +0900
+I, [2014-12-20T20:07:36.935716 #927]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:07:36.936584 #927]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:07:36.937620 #927] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:07:37.479287 #927]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:07:37 +0900
+I, [2014-12-20T20:07:37.479957 #927]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:07:37.480919 #927]  INFO -- : Completed 500 Internal Server Error in 1ms
+F, [2014-12-20T20:07:37.481961 #927] FATAL -- : 
+ActiveRecord::StatementInvalid (Could not find table 'sales'):
+  app/controllers/user_controller.rb:17:in `index'
+
+
+I, [2014-12-20T20:10:34.186852 #932]  INFO -- : Migrating to CreateUsers (20141211130330)
+I, [2014-12-20T20:10:34.192684 #932]  INFO -- : Migrating to CreateSales (20141211130339)
+I, [2014-12-20T20:10:34.194946 #932]  INFO -- : Migrating to CreateGifts (20141211130346)
+I, [2014-12-20T20:10:34.197144 #932]  INFO -- : Migrating to CreatePoints (20141211130351)
+I, [2014-12-20T20:10:34.200926 #932]  INFO -- : Migrating to CreateSettings (20141216150248)
+I, [2014-12-20T20:10:34.203141 #932]  INFO -- : Migrating to ChangeBirthdayFromUser (20141217043732)
+I, [2014-12-20T20:10:55.226939 #935]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:10:55 +0900
+I, [2014-12-20T20:10:55.233164 #935]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:10:55.247079 #935]  INFO -- :   Rendered user/index.html.erb within layouts/application (1.7ms)
+I, [2014-12-20T20:10:55.249050 #935]  INFO -- :   Rendered shared/_navbar.html.erb (0.7ms)
+I, [2014-12-20T20:10:55.249337 #935]  INFO -- : Completed 200 OK in 16ms (Views: 5.5ms | ActiveRecord: 0.7ms)
+I, [2014-12-20T20:10:55.289488 #935]  INFO -- : Started GET "/assets/application-99adf1a041613913b61815021946c13d.css" for 127.0.0.1 at 2014-12-20 20:10:55 +0900
+F, [2014-12-20T20:10:55.290847 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-99adf1a041613913b61815021946c13d.css"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:10:55.294168 #935]  INFO -- : Started GET "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js" for 127.0.0.1 at 2014-12-20 20:10:55 +0900
+F, [2014-12-20T20:10:55.295301 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:11:16.342773 #935]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:11:16 +0900
+I, [2014-12-20T20:11:16.344248 #935]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:11:16.347905 #935]  INFO -- :   Rendered user/index.html.erb within layouts/application (0.9ms)
+I, [2014-12-20T20:11:16.348930 #935]  INFO -- :   Rendered shared/_navbar.html.erb (0.4ms)
+I, [2014-12-20T20:11:16.349226 #935]  INFO -- : Completed 200 OK in 5ms (Views: 2.5ms | ActiveRecord: 0.3ms)
+I, [2014-12-20T20:11:16.394353 #935]  INFO -- : Started GET "/assets/application-99adf1a041613913b61815021946c13d.css" for 127.0.0.1 at 2014-12-20 20:11:16 +0900
+F, [2014-12-20T20:11:16.395192 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-99adf1a041613913b61815021946c13d.css"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:11:16.397102 #935]  INFO -- : Started GET "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js" for 127.0.0.1 at 2014-12-20 20:11:16 +0900
+F, [2014-12-20T20:11:16.398234 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:11:19.091816 #935]  INFO -- : Started GET "/user/show_all/0" for 127.0.0.1 at 2014-12-20 20:11:19 +0900
+I, [2014-12-20T20:11:19.093249 #935]  INFO -- : Processing by UserController#show_all as HTML
+I, [2014-12-20T20:11:19.093327 #935]  INFO -- :   Parameters: {"offset"=>"0"}
+I, [2014-12-20T20:11:19.098526 #935]  INFO -- :   Rendered user/show_all.html.erb within layouts/application (2.0ms)
+I, [2014-12-20T20:11:19.099847 #935]  INFO -- :   Rendered shared/_navbar.html.erb (0.6ms)
+I, [2014-12-20T20:11:19.100327 #935]  INFO -- : Completed 200 OK in 7ms (Views: 4.3ms | ActiveRecord: 0.5ms)
+I, [2014-12-20T20:11:19.140157 #935]  INFO -- : Started GET "/assets/application-99adf1a041613913b61815021946c13d.css" for 127.0.0.1 at 2014-12-20 20:11:19 +0900
+F, [2014-12-20T20:11:19.141163 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-99adf1a041613913b61815021946c13d.css"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:11:19.143974 #935]  INFO -- : Started GET "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js" for 127.0.0.1 at 2014-12-20 20:11:19 +0900
+F, [2014-12-20T20:11:19.144847 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:11:20.287152 #935]  INFO -- : Started GET "/user/new" for 127.0.0.1 at 2014-12-20 20:11:20 +0900
+I, [2014-12-20T20:11:20.288264 #935]  INFO -- : Processing by UserController#new as HTML
+I, [2014-12-20T20:11:20.291250 #935]  INFO -- :   Rendered user/new.html.erb within layouts/application (1.7ms)
+I, [2014-12-20T20:11:20.291984 #935]  INFO -- :   Rendered shared/_navbar.html.erb (0.3ms)
+I, [2014-12-20T20:11:20.292364 #935]  INFO -- : Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+I, [2014-12-20T20:11:20.330958 #935]  INFO -- : Started GET "/assets/application-99adf1a041613913b61815021946c13d.css" for 127.0.0.1 at 2014-12-20 20:11:20 +0900
+F, [2014-12-20T20:11:20.332081 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-99adf1a041613913b61815021946c13d.css"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:11:20.335142 #935]  INFO -- : Started GET "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js" for 127.0.0.1 at 2014-12-20 20:11:20 +0900
+F, [2014-12-20T20:11:20.336045 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:11:21.517717 #935]  INFO -- : Started GET "/user/new" for 127.0.0.1 at 2014-12-20 20:11:21 +0900
+I, [2014-12-20T20:11:21.519074 #935]  INFO -- : Processing by UserController#new as HTML
+I, [2014-12-20T20:11:21.521626 #935]  INFO -- :   Rendered user/new.html.erb within layouts/application (1.5ms)
+I, [2014-12-20T20:11:21.522392 #935]  INFO -- :   Rendered shared/_navbar.html.erb (0.3ms)
+I, [2014-12-20T20:11:21.522617 #935]  INFO -- : Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+I, [2014-12-20T20:11:21.565587 #935]  INFO -- : Started GET "/assets/application-99adf1a041613913b61815021946c13d.css" for 127.0.0.1 at 2014-12-20 20:11:21 +0900
+F, [2014-12-20T20:11:21.566492 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-99adf1a041613913b61815021946c13d.css"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:11:21.569438 #935]  INFO -- : Started GET "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js" for 127.0.0.1 at 2014-12-20 20:11:21 +0900
+F, [2014-12-20T20:11:21.570602 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:11:22.102610 #935]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:11:22 +0900
+I, [2014-12-20T20:11:22.104138 #935]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:11:22.108323 #935]  INFO -- :   Rendered user/index.html.erb within layouts/application (1.0ms)
+I, [2014-12-20T20:11:22.109367 #935]  INFO -- :   Rendered shared/_navbar.html.erb (0.4ms)
+I, [2014-12-20T20:11:22.109586 #935]  INFO -- : Completed 200 OK in 5ms (Views: 2.5ms | ActiveRecord: 0.3ms)
+I, [2014-12-20T20:11:22.153997 #935]  INFO -- : Started GET "/assets/application-99adf1a041613913b61815021946c13d.css" for 127.0.0.1 at 2014-12-20 20:11:22 +0900
+F, [2014-12-20T20:11:22.155208 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-99adf1a041613913b61815021946c13d.css"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:11:22.156970 #935]  INFO -- : Started GET "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js" for 127.0.0.1 at 2014-12-20 20:11:22 +0900
+F, [2014-12-20T20:11:22.157663 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:11:22.863164 #935]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:11:22 +0900
+I, [2014-12-20T20:11:22.864125 #935]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:11:22.867551 #935]  INFO -- :   Rendered user/index.html.erb within layouts/application (1.1ms)
+I, [2014-12-20T20:11:22.868271 #935]  INFO -- :   Rendered shared/_navbar.html.erb (0.3ms)
+I, [2014-12-20T20:11:22.868492 #935]  INFO -- : Completed 200 OK in 4ms (Views: 2.4ms | ActiveRecord: 0.4ms)
+I, [2014-12-20T20:11:22.912349 #935]  INFO -- : Started GET "/assets/application-99adf1a041613913b61815021946c13d.css" for 127.0.0.1 at 2014-12-20 20:11:22 +0900
+F, [2014-12-20T20:11:22.913189 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-99adf1a041613913b61815021946c13d.css"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:11:22.914987 #935]  INFO -- : Started GET "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js" for 127.0.0.1 at 2014-12-20 20:11:22 +0900
+F, [2014-12-20T20:11:22.915589 #935] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:16:03.147395 #977]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:16:03 +0900
+I, [2014-12-20T20:16:03.153305 #977]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:16:03.168084 #977]  INFO -- :   Rendered user/index.html.erb within layouts/application (1.6ms)
+I, [2014-12-20T20:16:03.170077 #977]  INFO -- :   Rendered shared/_navbar.html.erb (0.7ms)
+I, [2014-12-20T20:16:03.170356 #977]  INFO -- : Completed 200 OK in 17ms (Views: 5.4ms | ActiveRecord: 0.7ms)
+I, [2014-12-20T20:16:03.213627 #977]  INFO -- : Started GET "/assets/application-99adf1a041613913b61815021946c13d.css" for 127.0.0.1 at 2014-12-20 20:16:03 +0900
+F, [2014-12-20T20:16:03.214409 #977] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-99adf1a041613913b61815021946c13d.css"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:16:03.216367 #977]  INFO -- : Started GET "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js" for 127.0.0.1 at 2014-12-20 20:16:03 +0900
+F, [2014-12-20T20:16:03.217754 #977] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:19:42.701374 #977]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:19:42 +0900
+I, [2014-12-20T20:19:42.702325 #977]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:19:42.705437 #977]  INFO -- :   Rendered user/index.html.erb within layouts/application (0.8ms)
+I, [2014-12-20T20:19:42.706257 #977]  INFO -- :   Rendered shared/_navbar.html.erb (0.4ms)
+I, [2014-12-20T20:19:42.706470 #977]  INFO -- : Completed 200 OK in 4ms (Views: 2.2ms | ActiveRecord: 0.3ms)
+I, [2014-12-20T20:19:42.762838 #977]  INFO -- : Started GET "/assets/application-99adf1a041613913b61815021946c13d.css" for 127.0.0.1 at 2014-12-20 20:19:42 +0900
+F, [2014-12-20T20:19:42.764100 #977] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-99adf1a041613913b61815021946c13d.css"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:19:42.766858 #977]  INFO -- : Started GET "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js" for 127.0.0.1 at 2014-12-20 20:19:42 +0900
+F, [2014-12-20T20:19:42.768427 #977] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:19:43.418231 #977]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:19:43 +0900
+I, [2014-12-20T20:19:43.419028 #977]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:19:43.422042 #977]  INFO -- :   Rendered user/index.html.erb within layouts/application (0.9ms)
+I, [2014-12-20T20:19:43.422870 #977]  INFO -- :   Rendered shared/_navbar.html.erb (0.4ms)
+I, [2014-12-20T20:19:43.423099 #977]  INFO -- : Completed 200 OK in 4ms (Views: 2.2ms | ActiveRecord: 0.3ms)
+I, [2014-12-20T20:19:43.471396 #977]  INFO -- : Started GET "/assets/application-99adf1a041613913b61815021946c13d.css" for 127.0.0.1 at 2014-12-20 20:19:43 +0900
+F, [2014-12-20T20:19:43.472613 #977] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-99adf1a041613913b61815021946c13d.css"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:19:43.474712 #977]  INFO -- : Started GET "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js" for 127.0.0.1 at 2014-12-20 20:19:43 +0900
+F, [2014-12-20T20:19:43.475367 #977] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-e6f7ed77031a3d3333172e8c64e76ef2.js"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:20:53.324531 #1005]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:20:53 +0900
+I, [2014-12-20T20:20:53.330466 #1005]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:20:53.346453 #1005]  INFO -- :   Rendered user/index.html.erb within layouts/application (1.6ms)
+I, [2014-12-20T20:20:53.348390 #1005]  INFO -- :   Rendered shared/_navbar.html.erb (0.7ms)
+I, [2014-12-20T20:20:53.348682 #1005]  INFO -- : Completed 200 OK in 18ms (Views: 5.4ms | ActiveRecord: 0.8ms)
+I, [2014-12-20T20:20:53.394944 #1005]  INFO -- : Started GET "/assets/application-190c910bc1d886e8d99ace20d05be3c8.css" for 127.0.0.1 at 2014-12-20 20:20:53 +0900
+F, [2014-12-20T20:20:53.396185 #1005] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-190c910bc1d886e8d99ace20d05be3c8.css"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:20:53.398979 #1005]  INFO -- : Started GET "/assets/application-102d7ea2c56ada28ed3ab62d7fb1d137.js" for 127.0.0.1 at 2014-12-20 20:20:53 +0900
+F, [2014-12-20T20:20:53.400059 #1005] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-102d7ea2c56ada28ed3ab62d7fb1d137.js"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:20:54.066042 #1005]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:20:54 +0900
+I, [2014-12-20T20:20:54.067140 #1005]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:20:54.070353 #1005]  INFO -- :   Rendered user/index.html.erb within layouts/application (0.9ms)
+I, [2014-12-20T20:20:54.071212 #1005]  INFO -- :   Rendered shared/_navbar.html.erb (0.4ms)
+I, [2014-12-20T20:20:54.071466 #1005]  INFO -- : Completed 200 OK in 4ms (Views: 2.3ms | ActiveRecord: 0.3ms)
+I, [2014-12-20T20:20:54.116527 #1005]  INFO -- : Started GET "/assets/application-190c910bc1d886e8d99ace20d05be3c8.css" for 127.0.0.1 at 2014-12-20 20:20:54 +0900
+F, [2014-12-20T20:20:54.118941 #1005] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-190c910bc1d886e8d99ace20d05be3c8.css"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:20:54.119747 #1005]  INFO -- : Started GET "/assets/application-102d7ea2c56ada28ed3ab62d7fb1d137.js" for 127.0.0.1 at 2014-12-20 20:20:54 +0900
+F, [2014-12-20T20:20:54.120771 #1005] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/application-102d7ea2c56ada28ed3ab62d7fb1d137.js"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:21:37.451138 #1013]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:21:37 +0900
+I, [2014-12-20T20:21:37.456742 #1013]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:21:37.471320 #1013]  INFO -- :   Rendered user/index.html.erb within layouts/application (1.5ms)
+I, [2014-12-20T20:21:37.473255 #1013]  INFO -- :   Rendered shared/_navbar.html.erb (0.7ms)
+I, [2014-12-20T20:21:37.473518 #1013]  INFO -- : Completed 200 OK in 17ms (Views: 5.3ms | ActiveRecord: 0.7ms)
+I, [2014-12-20T20:21:54.844056 #1013]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:21:54 +0900
+I, [2014-12-20T20:21:54.844943 #1013]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:21:54.845351 #1013]  INFO -- : Filter chain halted as #<Proc:0x007fb10bea4c28@/Users/seokjunseo/.rvm/gems/ruby-2.0.0-p481@Project/gems/actionpack-4.1.4/lib/action_controller/metal/http_authentication.rb:71> rendered or redirected
+I, [2014-12-20T20:21:54.845450 #1013]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:21:55.059217 #1013]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:21:55 +0900
+I, [2014-12-20T20:21:55.059822 #1013]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:21:55.060141 #1013]  INFO -- : Filter chain halted as #<Proc:0x007fb10bea4c28@/Users/seokjunseo/.rvm/gems/ruby-2.0.0-p481@Project/gems/actionpack-4.1.4/lib/action_controller/metal/http_authentication.rb:71> rendered or redirected
+I, [2014-12-20T20:21:55.060221 #1013]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:21:55.342281 #1013]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:21:55 +0900
+I, [2014-12-20T20:21:55.342852 #1013]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:21:55.345934 #1013]  INFO -- :   Rendered user/index.html.erb within layouts/application (1.3ms)
+I, [2014-12-20T20:21:55.346720 #1013]  INFO -- :   Rendered shared/_navbar.html.erb (0.3ms)
+I, [2014-12-20T20:21:55.346966 #1013]  INFO -- : Completed 200 OK in 4ms (Views: 2.6ms | ActiveRecord: 0.2ms)
+I, [2014-12-20T20:21:57.231377 #1013]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:21:57 +0900
+I, [2014-12-20T20:21:57.232062 #1013]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:21:57.235607 #1013]  INFO -- :   Rendered user/index.html.erb within layouts/application (1.5ms)
+I, [2014-12-20T20:21:57.237158 #1013]  INFO -- :   Rendered shared/_navbar.html.erb (0.7ms)
+I, [2014-12-20T20:21:57.237422 #1013]  INFO -- : Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.2ms)
+I, [2014-12-20T20:26:00.064614 #1044]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:26:00 +0900
+I, [2014-12-20T20:26:00.070839 #1044]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:26:00.077264 #1044]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:26:00.077462 #1044]  INFO -- : Completed 401 Unauthorized in 6ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:26:00.469512 #1044]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:26:00 +0900
+I, [2014-12-20T20:26:00.470288 #1044]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:26:00.470559 #1044]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:26:00.470662 #1044]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:26:08.019998 #1044]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:26:08 +0900
+I, [2014-12-20T20:26:08.020786 #1044]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:26:08.021109 #1044]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:26:08.021218 #1044]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:26:15.695612 #1044]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:26:15 +0900
+I, [2014-12-20T20:26:15.696421 #1044]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:26:15.706904 #1044]  INFO -- :   Rendered user/index.html.erb within layouts/application (1.8ms)
+I, [2014-12-20T20:26:15.708973 #1044]  INFO -- :   Rendered shared/_navbar.html.erb (0.8ms)
+I, [2014-12-20T20:26:15.709291 #1044]  INFO -- : Completed 200 OK in 13ms (Views: 6.0ms | ActiveRecord: 1.0ms)
+I, [2014-12-20T20:26:23.763330 #1044]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:26:23 +0900
+I, [2014-12-20T20:26:23.764367 #1044]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:26:23.767353 #1044]  INFO -- :   Rendered user/index.html.erb within layouts/application (0.7ms)
+I, [2014-12-20T20:26:23.768126 #1044]  INFO -- :   Rendered shared/_navbar.html.erb (0.3ms)
+I, [2014-12-20T20:26:23.768334 #1044]  INFO -- : Completed 200 OK in 4ms (Views: 2.0ms | ActiveRecord: 0.2ms)
+I, [2014-12-20T20:26:30.608511 #1044]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:26:30 +0900
+I, [2014-12-20T20:26:30.609159 #1044]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:26:30.609391 #1044]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:26:30.609470 #1044]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:26:31.022323 #1044]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:26:31 +0900
+I, [2014-12-20T20:26:31.022944 #1044]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:26:31.023178 #1044]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:26:31.023264 #1044]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:32:27.590734 #1044]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:32:27 +0900
+I, [2014-12-20T20:32:27.591321 #1044]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:32:27.591528 #1044]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:32:27.591608 #1044]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:32:28.104939 #1044]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:32:28 +0900
+I, [2014-12-20T20:32:28.105512 #1044]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:32:28.105724 #1044]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:32:28.105801 #1044]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:32:35.411565 #1044]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:32:35 +0900
+I, [2014-12-20T20:32:35.412352 #1044]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:32:35.415188 #1044]  INFO -- :   Rendered user/index.html.erb within layouts/application (0.9ms)
+I, [2014-12-20T20:32:35.416004 #1044]  INFO -- :   Rendered shared/_navbar.html.erb (0.4ms)
+I, [2014-12-20T20:32:35.416224 #1044]  INFO -- : Completed 200 OK in 4ms (Views: 2.2ms | ActiveRecord: 0.3ms)
+I, [2014-12-20T20:32:40.599638 #1044]  INFO -- : Started GET "/user/new" for 127.0.0.1 at 2014-12-20 20:32:40 +0900
+I, [2014-12-20T20:32:40.601308 #1044]  INFO -- : Processing by UserController#new as HTML
+I, [2014-12-20T20:32:40.604237 #1044]  INFO -- :   Rendered user/new.html.erb within layouts/application (1.6ms)
+I, [2014-12-20T20:32:40.605882 #1044]  INFO -- :   Rendered shared/_navbar.html.erb (0.7ms)
+I, [2014-12-20T20:32:40.606201 #1044]  INFO -- : Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+I, [2014-12-20T20:32:40.620289 #1044]  INFO -- : Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-12-20 20:32:40 +0900
+F, [2014-12-20T20:32:40.621816 #1044] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/fontawesome-webfont.woff"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:32:40.646375 #1044]  INFO -- : Started GET "/assets/fontawesome-webfont.ttf" for 127.0.0.1 at 2014-12-20 20:32:40 +0900
+F, [2014-12-20T20:32:40.647293 #1044] FATAL -- : 
+ActionController::RoutingError (No route matches [GET] "/assets/fontawesome-webfont.ttf"):
+  actionpack (4.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  actionpack (4.1.4) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.4) lib/rails/engine.rb:514:in `call'
+  railties (4.1.4) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/seokjunseo/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+I, [2014-12-20T20:32:42.188231 #1044]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:32:42 +0900
+I, [2014-12-20T20:32:42.189184 #1044]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:32:42.193318 #1044]  INFO -- :   Rendered user/index.html.erb within layouts/application (1.5ms)
+I, [2014-12-20T20:32:42.194087 #1044]  INFO -- :   Rendered shared/_navbar.html.erb (0.3ms)
+I, [2014-12-20T20:32:42.194328 #1044]  INFO -- : Completed 200 OK in 5ms (Views: 3.3ms | ActiveRecord: 0.2ms)
+I, [2014-12-20T20:34:39.974200 #1132]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:34:39 +0900
+I, [2014-12-20T20:34:39.982499 #1132]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:34:40.001946 #1132]  INFO -- :   Rendered user/index.html.erb within layouts/application (2.7ms)
+I, [2014-12-20T20:34:40.004233 #1132]  INFO -- :   Rendered shared/_navbar.html.erb (0.8ms)
+I, [2014-12-20T20:34:40.004537 #1132]  INFO -- : Completed 200 OK in 22ms (Views: 8.3ms | ActiveRecord: 1.3ms)
+I, [2014-12-20T20:34:47.346262 #1132]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:34:47 +0900
+I, [2014-12-20T20:34:47.347540 #1132]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:34:47.347935 #1132]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:34:47.348056 #1132]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:34:50.261236 #1132]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:34:50 +0900
+I, [2014-12-20T20:34:50.261833 #1132]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:34:50.262036 #1132]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:34:50.262110 #1132]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:34:50.430615 #1132]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:34:50 +0900
+I, [2014-12-20T20:34:50.431185 #1132]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:34:50.431386 #1132]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:34:50.431462 #1132]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:34:50.572043 #1132]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:34:50 +0900
+I, [2014-12-20T20:34:50.572616 #1132]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:34:50.572820 #1132]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:34:50.572896 #1132]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:34:51.100343 #1132]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:34:51 +0900
+I, [2014-12-20T20:34:51.100930 #1132]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:34:51.101129 #1132]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:34:51.101203 #1132]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:34:51.117342 #1132]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:34:51 +0900
+I, [2014-12-20T20:34:51.117923 #1132]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:34:51.118131 #1132]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:34:51.118210 #1132]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:34:58.887286 #1132]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:34:58 +0900
+I, [2014-12-20T20:34:58.887932 #1132]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:34:58.888178 #1132]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:34:58.888265 #1132]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:35:01.705378 #1132]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:35:01 +0900
+I, [2014-12-20T20:35:01.707534 #1132]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:35:01.708064 #1132]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:35:01.708239 #1132]  INFO -- : Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+I, [2014-12-20T20:35:02.171462 #1132]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-20 20:35:02 +0900
+I, [2014-12-20T20:35:02.172263 #1132]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-20T20:35:02.172553 #1132]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-20T20:35:02.172666 #1132]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:04:54.979101 #931]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:04:54 +0900
+I, [2014-12-22T16:04:54.987273 #931]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:04:54.994365 #931]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:04:54.994506 #931]  INFO -- : Completed 401 Unauthorized in 7ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:04:55.404063 #931]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:04:55 +0900
+I, [2014-12-22T16:04:55.404700 #931]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:04:55.404937 #931]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:04:55.405020 #931]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:04:59.597028 #931]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:04:59 +0900
+I, [2014-12-22T16:04:59.597786 #931]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:04:59.612349 #931]  INFO -- :   Rendered user/index.html.erb within layouts/application (2.1ms)
+I, [2014-12-22T16:04:59.614722 #931]  INFO -- :   Rendered shared/_navbar.html.erb (0.8ms)
+I, [2014-12-22T16:04:59.615039 #931]  INFO -- : Completed 200 OK in 17ms (Views: 7.5ms | ActiveRecord: 1.6ms)
+I, [2014-12-22T16:29:58.464389 #1075]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:29:58 +0900
+I, [2014-12-22T16:29:58.470068 #1075]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:29:58.476607 #1075]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:29:58.476742 #1075]  INFO -- : Completed 401 Unauthorized in 7ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:29:58.925528 #1075]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:29:58 +0900
+I, [2014-12-22T16:29:58.926420 #1075]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:29:58.926899 #1075]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:29:58.927036 #1075]  INFO -- : Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:30:02.078316 #1075]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:30:02 +0900
+I, [2014-12-22T16:30:02.079095 #1075]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:30:02.079572 #1075]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:30:02.079685 #1075]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:30:23.481408 #1075]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:30:23 +0900
+I, [2014-12-22T16:30:23.482519 #1075]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:30:23.492811 #1075]  INFO -- :   Rendered user/index.html.erb within layouts/application (1.8ms)
+I, [2014-12-22T16:30:23.495001 #1075]  INFO -- :   Rendered shared/_navbar.html.erb (0.8ms)
+I, [2014-12-22T16:30:23.495294 #1075]  INFO -- : Completed 200 OK in 13ms (Views: 5.9ms | ActiveRecord: 0.8ms)
+I, [2014-12-22T16:45:20.219862 #1217]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:45:20 +0900
+I, [2014-12-22T16:45:20.230945 #1217]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:45:20.247977 #1217]  INFO -- :   Rendered user/index.html.erb within layouts/application (2.1ms)
+I, [2014-12-22T16:45:20.250284 #1217]  INFO -- :   Rendered shared/_navbar.html.erb (0.8ms)
+I, [2014-12-22T16:45:20.250618 #1217]  INFO -- : Completed 200 OK in 20ms (Views: 7.5ms | ActiveRecord: 0.9ms)
+I, [2014-12-22T16:45:34.474941 #1217]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:45:34 +0900
+I, [2014-12-22T16:45:34.475806 #1217]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:45:34.476084 #1217]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:45:34.476160 #1217]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:45:34.625389 #1217]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:45:34 +0900
+I, [2014-12-22T16:45:34.626036 #1217]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:45:34.626276 #1217]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:45:34.626360 #1217]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:45:34.872468 #1217]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:45:34 +0900
+I, [2014-12-22T16:45:34.873057 #1217]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:45:34.873265 #1217]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:45:34.873342 #1217]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:45:35.008286 #1217]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:45:35 +0900
+I, [2014-12-22T16:45:35.008888 #1217]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:45:35.009099 #1217]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:45:35.009175 #1217]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:45:35.017313 #1217]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:45:35 +0900
+I, [2014-12-22T16:45:35.017763 #1217]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:45:35.017943 #1217]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:45:35.018012 #1217]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:45:40.197474 #1217]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:45:40 +0900
+I, [2014-12-22T16:45:40.198226 #1217]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:45:40.198542 #1217]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:45:40.198650 #1217]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:46:15.318442 #1217]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:46:15 +0900
+I, [2014-12-22T16:46:15.319148 #1217]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:46:15.319426 #1217]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:46:15.319526 #1217]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:46:17.619129 #1217]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:46:17 +0900
+I, [2014-12-22T16:46:17.619842 #1217]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:46:17.620124 #1217]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:46:17.620223 #1217]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:46:29.069587 #1217]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:46:29 +0900
+I, [2014-12-22T16:46:29.070297 #1217]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:46:29.070581 #1217]  INFO -- : Filter chain halted as :authentication_check rendered or redirected
+I, [2014-12-22T16:46:29.070690 #1217]  INFO -- : Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+I, [2014-12-22T16:46:31.686537 #1217]  INFO -- : Started GET "/" for 127.0.0.1 at 2014-12-22 16:46:31 +0900
+I, [2014-12-22T16:46:31.687202 #1217]  INFO -- : Processing by UserController#index as HTML
+I, [2014-12-22T16:46:31.689898 #1217]  INFO -- :   Rendered user/index.html.erb within layouts/application (0.8ms)
+I, [2014-12-22T16:46:31.690751 #1217]  INFO -- :   Rendered shared/_navbar.html.erb (0.3ms)
+I, [2014-12-22T16:46:31.690967 #1217]  INFO -- : Completed 200 OK in 4ms (Views: 2.2ms | ActiveRecord: 0.2ms)
+I, [2014-12-23T23:41:52.580950 #873]  INFO -- : Migrating to DeleteBirthdayFromUser (20141223142246)

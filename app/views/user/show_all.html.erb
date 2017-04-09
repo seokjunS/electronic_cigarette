@@ -1,0 +1,37 @@
+<div class="container" id="layout-user-show-all">
+	<h1>전체 고객 정보</h1>
+	<hr>
+	<div style="height:550px;overflow-y:scroll;border:1px solid #ddd">
+		<table class="table table-hover">
+	  	<thead>
+	  		<tr>
+	  			<th>#</th>
+	  			<th>고객명</th>
+	  			<th>전화번호</th>
+	  			<th>등록일</th>
+	  		</tr>
+	  	</thead>
+	  	<tbody>
+	  		<% @users.each_with_index do |user, idx| %>
+	  			<tr style="cursor:pointer" onclick="window.location.href='/user/<%= user.id %>'">
+	  				<td><%= idx + 1 %></td>
+	  				<td><%= user.name %></td>
+	  				<td><%= user.phone_number %></td>
+	  				<td><%= user.created_at %></td>
+	  			</tr>
+	  		<% end %>
+	  	</tbody>
+		</table>
+	</div>
+	<div style="text-align:center">
+		<nav>
+			<ul class="pagination">
+				<li><a href="/user/show_all/<%= @offset_from - 1 %>"><span aria-hidden="true">&laquo;</span><span class="sr-only">Previous</span></a></li>
+					<% for i in (@offset_from..@offset_to) %>
+						<li class="<%= i == @offset ? 'active' : '' %>"><a href="/user/show_all/<%= i %>"><%= i + 1 %></a></li>
+					<% end %>
+		    <li><a href="/user/show_all/<%= @offset_to + 1 %>"><span aria-hidden="true">&raquo;</span><span class="sr-only">Next</span></a>
+			</ul>
+		</nav>
+	</div>
+</div>

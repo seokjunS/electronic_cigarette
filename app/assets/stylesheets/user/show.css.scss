@@ -1,0 +1,96 @@
+#layout-user-show {
+	font-size: 11px;
+
+	.panel-body {
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-bottom: 10px;
+	}
+
+	.panel-heading {
+		padding: 5px 8px;
+
+		.row {
+			margin: 0;
+
+			a {
+				margin-top: 1px;
+			}
+		}
+	}
+
+	.info-panel .panel-title {
+		font-size: 20px;
+		line-height: 180%;
+	}
+
+	a.btn-full {
+		width: 100%;
+		font-size: 20px;
+		padding-top: 60px;
+		padding-bottom: 50px;
+
+	}
+
+	.btn-group button {
+		padding-right: 5px;
+		padding-left: 5px;
+	}
+
+	.history-table {
+		height: 250px;
+		overflow-y: scroll;
+		text-align: center;
+		padding: 0;
+
+		.history-heading {
+			height: 40px;
+			line-height: 200%;
+		}
+	}
+
+	.verticle-scroll-panel {
+		overflow-x: scroll;
+	}
+
+	.scroll-item {
+		float: left;
+		width: 175px;
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+
+	.p-gift {
+		color: red;
+	}
+
+	.toggling-panel {
+		a {
+			color: #333;
+			cursor: pointer;
+		}
+
+		a:hover {
+			color: #428bca;
+		}
+	}
+
+	.point-panel {
+		.col-xs-left {
+			width: 25%;
+			padding-left: 8px;
+			padding-right: 8px;
+		}
+
+		.col-xs-right {
+			width: 75%;
+			padding-left: 8px;
+			padding-right: 8px;
+		}
+
+		.col-xs-6 {
+			padding: 0;
+		}
+	}
+
+}
